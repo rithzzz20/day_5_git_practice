@@ -1,3 +1,4 @@
+
 echo "enter the number you want to add"
 read num
 sum=0
@@ -7,3 +8,4 @@ for((i=0;i<num;i++))
 done
    echo "the sum for num is $sum"
 
+echo "Branch update: sum_of_num script modified"
